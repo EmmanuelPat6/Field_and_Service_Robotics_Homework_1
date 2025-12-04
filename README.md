@@ -1,2 +1,2 @@
-# Field_and_Service_Robotics_Homework_1
-Homework_1 Field and Service Robotics Patellaro Emmanuel P38000239
+## FIELD AND SERVICE ROBOTICS HOMEWORK_1
+🔢🚀 This repository contains the implementation of the Homework 1 for the course Field and Service Robotics (FSR) 🚀🔢
